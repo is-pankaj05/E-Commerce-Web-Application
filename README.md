@@ -6,24 +6,11 @@ I built this project using React and other web technologies to improve my fronte
 
 
 Features :  
-    User Login and Signup
-    Forgot Password
-    Browse Products
-    Add Products to Wishlist
-    Shopping Cart
-    Payment Functionality
-    Responsive Design
-    Easy-to-Use Interface 
+    User Login and Signup,  Forgot Password,  Browse Products,  Add Products to Wishlist,  Shopping Cart,  Payment Functionality,  Responsive Design,  Easy-to-Use Interface 
 
   
 Technologies Used :   
-    Technologies Used
-    React.js
-    JavaScript
-    Tailwind CSS
-    HTML
-    React Router
-    Vite
+    React.js,  JavaScript,  Tailwind CSS,  HTML,  React Router,  Vite
 
 
 
