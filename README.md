@@ -1,21 +1,25 @@
 E-Commerce Web Application (Zelo) : 
-  Zelo is an E-Commerce website that I developed to make online shopping easier. Users can explore products, create an account, manage their wishlist and go through the shopping and payment process.
 
-  I built this project using React and other web technologies to improve my frontend development skills and understand how an E-Commerce website works.
+Zelo is an E-Commerce website that I developed to make online shopping easier. Users can explore products, create an account, manage their wishlist, and go through the shopping and payment process.
 
-Features:
-  User Login and Signup,  
+I built this project using React and other web technologies to improve my frontend development skills and understand how an E-Commerce website works.
+
+
+Features : 
+
+  User Login and Signup,    
   Forgot Password,  
-  Browse Products,  
-  Add Products to Wishlist,   
+  Browse Products,    
+  Add Products to Wishlist,  
   Shopping Cart,  
-  Payment Functionality,   
+  Payment Functionality,  
   Responsive Design,  
-  Easy to Use Interface  
+  Easy-to-Use Interface  
 
+  
+Technologies Used : 
 
-Technologies Used :
-  React.js,   
+  React.js,  
   JavaScript,  
   Tailwind CSS,  
   HTML,  
@@ -23,7 +27,9 @@ Technologies Used :
   Vite  
 
 
-Screenshots :  
+Screenshots : 
+
+
   ![Login](screenshots/login.png)  
 
   ![SignUp](screenshots/signUp.png)  
@@ -52,7 +58,7 @@ Screenshots :
 
 
 
-How to Run the Project
+How to Run the Project : 
   1. Clone this repository:  
       git clone https://github.com/is-pankaj05/E-Commerce-Web-Application.git
   2. Open the project folder:  
