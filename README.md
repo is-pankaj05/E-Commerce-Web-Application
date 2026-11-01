@@ -5,26 +5,26 @@ Zelo is an E-Commerce website that I developed to make online shopping easier. U
 I built this project using React and other web technologies to improve my frontend development skills and understand how an E-Commerce website works.
 
 
-Features : 
 
-  User Login and Signup,    
-  Forgot Password,  
-  Browse Products,    
-  Add Products to Wishlist,  
-  Shopping Cart,  
-  Payment Functionality,  
-  Responsive Design,  
-  Easy-to-Use Interface  
+Features : 
+    User Login and Signup,    
+    Forgot Password,  
+    Browse Products,    
+    Add Products to Wishlist,  
+    Shopping Cart,  
+    Payment Functionality,  
+    Responsive Design,  
+    Easy-to-Use Interface  
 
   
 Technologies Used : 
+    React.js,  
+    JavaScript,  
+    Tailwind CSS,  
+    HTML,  
+    React Router,  
+    Vite  
 
-  React.js,  
-  JavaScript,  
-  Tailwind CSS,  
-  HTML,  
-  React Router,  
-  Vite  
 
 
 Screenshots : 
@@ -55,6 +55,7 @@ Screenshots :
   ![Logout](screenshots/logout.png)  
   
   ![Profile](screenshots/profile.png)  
+
 
 
 
